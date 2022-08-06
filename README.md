@@ -28,6 +28,11 @@ Hi, I'm Francis, web developer, designer, and educator from the Philippines.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s time to move on](https://teacherbuknoy.netlify.app/literature/it-s-time-to-move-on/)
+- [Read this when I die](https://teacherbuknoy.netlify.app/literature/read-this-when-i-die/)
+- [Sulit pa bang aralin ang Bootstrap sa 2022?](https://www.antaresph.dev/articles/sulit-pa-bang-aralin-ang-bootstrap-sa-2022/)
+- [Ang Resignation Ko Bilang Sepultorero](https://teacherbuknoy.netlify.app/literature/ang-resignation-ko-bilang-sepultorero/)
+- [min&lpar;&rpar;, max&lpar;&rpar;, at clamp&lpar;&rpar;](https://www.antaresph.dev/articles/min-max-at-clamp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
