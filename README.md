@@ -28,11 +28,11 @@ Hi, I'm Francis, web developer, designer, and educator from the Philippines.
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How coming out changed me](https://teacherbuknoy.netlify.app/writing/how-coming-out-changed-me/)
 - [Dapat bang turuan ng computer programming ang mga grade 4 student?](https://teacherbuknoy.netlify.app/writing/dapat-bang-turuan-ng-computer-programming-ang-mga-grade-4-student/)
 - [It&#39;s time to move on](https://teacherbuknoy.netlify.app/literature/it-s-time-to-move-on/)
 - [Read this when I die](https://teacherbuknoy.netlify.app/literature/read-this-when-i-die/)
 - [Sulit pa bang aralin ang Bootstrap sa 2022?](https://www.antaresph.dev/articles/sulit-pa-bang-aralin-ang-bootstrap-sa-2022/)
-- [Your Biblical Argument Against Homosexuality Tells Something About You](https://teacherbuknoy.netlify.app/writing/your-biblical-argument-against-homosexuality-tells-something-about-you/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
