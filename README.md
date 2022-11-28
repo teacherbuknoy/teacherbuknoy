@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rotting Flesh in a Beating Heart](https://teacherbuknoy.netlify.app/literature/rotting-flesh-in-a-beating-heart/)
 - [How coming out changed me](https://teacherbuknoy.netlify.app/writing/how-coming-out-changed-me/)
 - [Dapat bang turuan ng computer programming ang mga grade 4 student?](https://teacherbuknoy.netlify.app/writing/dapat-bang-turuan-ng-computer-programming-ang-mga-grade-4-student/)
 - [It&#39;s time to move on](https://teacherbuknoy.netlify.app/literature/it-s-time-to-move-on/)
 - [Read this when I die](https://teacherbuknoy.netlify.app/literature/read-this-when-i-die/)
-- [Sulit pa bang aralin ang Bootstrap sa 2022?](https://www.antaresph.dev/articles/sulit-pa-bang-aralin-ang-bootstrap-sa-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
