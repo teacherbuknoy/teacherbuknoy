@@ -31,10 +31,10 @@ I write blogs at my [website][website]!
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [King of the Night](https://teacherbuknoy.netlify.app/writing/king-of-the-night/)
-- [Rotting Flesh in a Beating Heart](https://teacherbuknoy.netlify.app/literature/rotting-flesh-in-a-beating-heart/)
 - [How coming out changed me](https://teacherbuknoy.netlify.app/writing/how-coming-out-changed-me/)
 - [Dapat bang turuan ng computer programming ang mga grade 4 student?](https://teacherbuknoy.netlify.app/writing/dapat-bang-turuan-ng-computer-programming-ang-mga-grade-4-student/)
-- [It&#39;s time to move on](https://teacherbuknoy.netlify.app/literature/it-s-time-to-move-on/)
+- [Your Biblical Argument Against Homosexuality Tells Something About You](https://teacherbuknoy.netlify.app/writing/your-biblical-argument-against-homosexuality-tells-something-about-you/)
+- [Why CSS is hard](https://teacherbuknoy.netlify.app/writing/why-css-is-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
