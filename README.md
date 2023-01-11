@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Websites with Vanilla](https://teacherbuknoy.netlify.app/writing/building-websites-with-vanilla/)
-- [2022: The Year in Retrospect](https://teacherbuknoy.netlify.app/writing/2022-the-year-in-retrospect/)
-- [King of the Night](https://teacherbuknoy.netlify.app/writing/king-of-the-night/)
+- [Building Websites with Vanilla](https://teacherbuknoy.netlify.app/writing/en/building-websites-with-vanilla/)
+- [2022: The Year in Retrospect](https://teacherbuknoy.netlify.app/writing/en/2022-the-year-in-retrospect/)
+- [King of the Night](https://teacherbuknoy.netlify.app/writing/en/king-of-the-night/)
 - [Rotting Flesh in a Beating Heart](https://teacherbuknoy.netlify.app/literature/rotting-flesh-in-a-beating-heart/)
-- [How coming out changed me](https://teacherbuknoy.netlify.app/writing/how-coming-out-changed-me/)
+- [How coming out changed me](https://teacherbuknoy.netlify.app/writing/en/how-coming-out-changed-me/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
