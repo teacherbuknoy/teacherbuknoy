@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new frontpage welcomes you](https://teacherbuknoy.netlify.app/writing/en/new-frontpage/)
 - [Building a kinder, noob-friendly world](https://teacherbuknoy.netlify.app/writing/en/noob-friendly-world/)
 - [Moving On and Saying Goodbyes](https://teacherbuknoy.netlify.app/writing/en/goodbyes/)
 - [The Frustrations of a Bisexual Man](https://teacherbuknoy.netlify.app/writing/en/the-frustrations-of-a-bisexual-man/)
 - [Best Scenes of Genshin Impact](https://teacherbuknoy.netlify.app/writing/en/best-scenes-of-genshin-impact/)
-- [Turning 24](https://teacherbuknoy.netlify.app/writing/en/turning-24/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
