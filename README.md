@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Sexualities and Gender Identities](https://teacherbuknoy.netlify.app/writing/en/sogiesc/)
 - [Introducing Pinoy Websites](https://teacherbuknoy.netlify.app/writing/en/pinoy-websites/)
 - [A new frontpage welcomes you](https://teacherbuknoy.netlify.app/writing/en/new-frontpage/)
 - [Building a kinder, noob-friendly world](https://teacherbuknoy.netlify.app/writing/en/noob-friendly-world/)
 - [Moving On and Saying Goodbyes](https://teacherbuknoy.netlify.app/writing/en/goodbyes/)
-- [The Frustrations of a Bisexual Man](https://teacherbuknoy.netlify.app/writing/en/the-frustrations-of-a-bisexual-man/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
