@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pretention and Delusion](https://teacherbuknoy.netlify.app/writing/en/pretention-and-delusion/)
 - [On Sexualities and Gender Identities](https://teacherbuknoy.netlify.app/writing/en/sogiesc/)
 - [Introducing Pinoy Websites](https://teacherbuknoy.netlify.app/writing/en/pinoy-websites/)
 - [A new frontpage welcomes you](https://teacherbuknoy.netlify.app/writing/en/new-frontpage/)
 - [Building a kinder, noob-friendly world](https://teacherbuknoy.netlify.app/writing/en/noob-friendly-world/)
-- [Moving On and Saying Goodbyes](https://teacherbuknoy.netlify.app/writing/en/goodbyes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
