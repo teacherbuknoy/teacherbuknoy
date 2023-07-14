@@ -31,10 +31,10 @@ I write blogs at my [website][website]!
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pretension and Delusion](https://francisrubio.antaresph.dev/writing/en/pretension-and-delusion/)
-- [On Sexualities and Gender Identities](https://francisrubio.antaresph.dev/writing/en/sogiesc/)
 - [Introducing Pinoy Websites](https://francisrubio.antaresph.dev/writing/en/pinoy-websites/)
 - [A new frontpage welcomes you](https://francisrubio.antaresph.dev/writing/en/new-frontpage/)
 - [Building a kinder, noob-friendly world](https://francisrubio.antaresph.dev/writing/en/noob-friendly-world/)
+- [Moving On and Saying Goodbyes](https://francisrubio.antaresph.dev/writing/en/goodbyes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
