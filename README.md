@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [God Was Gone](https://francisrubio.antaresph.dev/literature/god-was-gone/)
 - [Training to Lead](https://francisrubio.antaresph.dev/writing/en/training-to-lead/)
 - [Facing the Grief of Lost Relationships](https://francisrubio.antaresph.dev/writing/en/post-breakup-learnings/)
 - [Pretension and Delusion](https://francisrubio.antaresph.dev/writing/en/pretension-and-delusion/)
 - [Introducing Pinoy Websites](https://francisrubio.antaresph.dev/writing/en/pinoy-websites/)
-- [A new frontpage welcomes you](https://francisrubio.antaresph.dev/writing/en/new-frontpage/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
