@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Independence and Renaissance](https://francisrubio.antaresph.dev/writing/en/independence-and-renaissance/)
 - [Your First Breakup: A Survival Guide](https://francisrubio.antaresph.dev/writing/en/your-first-breakup-a-survival-guide/)
 - [Life Update](https://francisrubio.antaresph.dev/writing/en/life-update/)
 - [God Was Gone](https://francisrubio.antaresph.dev/literature/god-was-gone/)
 - [Training to Lead](https://francisrubio.antaresph.dev/writing/en/training-to-lead/)
-- [Facing the Grief of Lost Relationships](https://francisrubio.antaresph.dev/writing/en/post-breakup-learnings/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
