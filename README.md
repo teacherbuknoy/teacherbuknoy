@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ang Gurang na Bading sa Valentine&#39;s Day](https://francisrubio.antaresph.dev/literature/ang-gurang-na-bading-sa-valentine-s-day/)
 - [A Canvas Painted Dull and Bright](https://francisrubio.antaresph.dev/writing/en/a-canvas-painted-dull-and-bright/)
 - [Independence and Renaissance](https://francisrubio.antaresph.dev/writing/en/independence-and-renaissance/)
 - [Your First Breakup: A Survival Guide](https://francisrubio.antaresph.dev/writing/en/your-first-breakup-a-survival-guide/)
 - [Life Update](https://francisrubio.antaresph.dev/writing/en/life-update/)
-- [God Was Gone](https://francisrubio.antaresph.dev/literature/god-was-gone/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
