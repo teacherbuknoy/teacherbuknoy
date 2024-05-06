@@ -31,10 +31,10 @@ I write blogs at my [website][website]!
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Ang Munting Alon](https://francisrubio.antaresph.dev/literature/ang-munting-alon/)
+- [73 Questions with Francis](https://francisrubio.antaresph.dev/writing/en/73-questions-with-francis/)
 - [Ang Gurang na Bading sa Valentine&#39;s Day](https://francisrubio.antaresph.dev/literature/ang-gurang-na-bading-sa-valentine-s-day/)
-- [God Was Gone](https://francisrubio.antaresph.dev/literature/god-was-gone/)
-- [Mahal ang Maging Moral](https://francisrubio.antaresph.dev/literature/mahal-ang-maging-moral/)
-- [It&#39;s time to move on](https://francisrubio.antaresph.dev/literature/it-s-time-to-move-on/)
+- [A Canvas Painted Dull and Bright](https://francisrubio.antaresph.dev/writing/en/a-canvas-painted-dull-and-bright/)
+- [Independence and Renaissance](https://francisrubio.antaresph.dev/writing/en/independence-and-renaissance/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
