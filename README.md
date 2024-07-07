@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Antares Programming Videos](https://francisrubio.antaresph.dev/writing/en/antares-programming-videos/)
-- [Ang Munting Alon](https://francisrubio.antaresph.dev/literature/ang-munting-alon/)
-- [A Canvas Painted Dull and Bright](https://francisrubio.antaresph.dev/writing/en/a-canvas-painted-dull-and-bright/)
-- [Independence and Renaissance](https://francisrubio.antaresph.dev/writing/en/independence-and-renaissance/)
-- [Your First Breakup: A Survival Guide](https://francisrubio.antaresph.dev/writing/en/your-first-breakup-a-survival-guide/)
+- [Antares Programming Videos](https://francisrub.io/writing/en/antares-programming-videos/)
+- [Ang Munting Alon](https://francisrub.io/literature/ang-munting-alon/)
+- [A Canvas Painted Dull and Bright](https://francisrub.io/writing/en/a-canvas-painted-dull-and-bright/)
+- [Independence and Renaissance](https://francisrub.io/writing/en/independence-and-renaissance/)
+- [Your First Breakup: A Survival Guide](https://francisrub.io/writing/en/your-first-breakup-a-survival-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
