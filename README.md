@@ -1,5 +1,5 @@
 # Francis Rubio
-I am a super graphic ultra modern Filipino developer who is chrnoically online makes things on the web.
+I am a super graphic ultra modern Filipino developer who ~~is chrnoically online~~ makes things on the web.
 
 I write blogs on my [website][website]!
 
