@@ -34,7 +34,7 @@ I write blogs at my [website][website]!
 - [Welcome to the New Website](https://francisrub.io/writing/en/version-5/)
 - [Tag, I&#39;m it](https://francisrub.io/writing/en/blogging/)
 - [2024 Year in Photos](https://francisrub.io/writing/en/2024-year-in-photos/)
-- [Antares Programming Videos](https://francisrub.io/writing/en/antares-programming-videos/)
+- [HTML Dialog](https://antaresph.dev/videos/html-dialog/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
