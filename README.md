@@ -30,11 +30,11 @@ I write blogs at my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Website—A Lookback](https://francisrub.io/writing/en/website-lookback/)
+- [Welcome to the New Website](https://francisrub.io/writing/en/version-5/)
+- [Tag, I&#39;m it](https://francisrub.io/writing/en/blogging/)
 - [2024 Year in Photos](https://francisrub.io/writing/en/2024-year-in-photos/)
 - [Antares Programming Videos](https://francisrub.io/writing/en/antares-programming-videos/)
-- [Ang Munting Alon](https://francisrub.io/literature/ang-munting-alon/)
-- [A Canvas Painted Dull and Bright](https://francisrub.io/writing/en/a-canvas-painted-dull-and-bright/)
-- [Independence and Renaissance](https://francisrub.io/writing/en/independence-and-renaissance/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- LINKS -->
