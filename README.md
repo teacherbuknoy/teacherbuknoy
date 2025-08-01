@@ -22,8 +22,8 @@ I write blogs on my [website][website]!
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [This Website—A Lookback](https://francisrub.io/writing/en/website-lookback/)
 - [Welcome to the New Website](https://francisrub.io/writing/en/version-5/)
+- [This Website—A Lookback](https://francisrub.io/writing/en/website-lookback/)
 - [Tag, I&#39;m it](https://francisrub.io/writing/en/blogging/)
 - [2024 Year in Photos](https://francisrub.io/writing/en/2024-year-in-photos/)
 - [HTML Dialog](https://antaresph.dev/videos/html-dialog/)
